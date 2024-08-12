@@ -48,8 +48,8 @@ I mainly use Python (and R) to develop my data solutions.
 
 For collaboration opportunities or just to chat, feel free to reach out:
 
-- Email: [📧 alexandre.langlais@example.com](mailto:alexandre.langlais@example.com)
-- LinkedIn: [🔗 Alexandre LANGAIS](https://www.linkedin.com/in/alexandre-langlais)
+- Email: [📧 alexandre.langlais@example.com](mailto:langlais.alexandre03@gmail.com)
+- LinkedIn: [🔗 Alexandre LANGAIS](https://www.linkedin.com/in/a-langlais)
 
 I'm always open to new opportunities and excited about contributing to innovative projects. Don’t hesitate to contact me if you have any questions or just want to discuss data and AI technologies!
 
