@@ -51,8 +51,4 @@ For collaboration opportunities or just to chat, feel free to reach out:
 
 I'm always open to new opportunities and excited about contributing to innovative projects. Don’t hesitate to contact me if you have any questions or just want to discuss data and AI technologies!
 
-## GitHub Stats 📈
-
-![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=79c0ff&title_color=58a6ff)
-
 Feel free to explore my repositories and let’s connect!
