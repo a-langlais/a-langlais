@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Alexandre LANGAIS, a Fullstack Data & AI Engin
 
 ## 🧳 Portfolio 
 
-To explore some of my projects and learn more about my skills, visit [my portfolio](https://alexandrelanglais.notion.site/Alexandre-LANGLAIS-b913204bd696484fa3b8f7b148aee413).
+To explore some of my projects and learn more about my skills, visit [my portfolio (fr)](https://alexandrelanglais.notion.site/Alexandre-LANGLAIS-b913204bd696484fa3b8f7b148aee413).
 
 ## 💼 Skills 
 
