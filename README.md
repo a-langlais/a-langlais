@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository. 
 
-I'm passionate about merging ecology with advanced data science to drive impactful conservation strategies. With a background in feild studies and statistics plus a keen interest in open-source hardware, I strive to innovate in biodiversity monitoring and ecological research methodologies.
+I'm passionate about merging ecology with advanced data science to drive impactful conservation strategies. With a background in field studies and statistics plus a keen interest in open-source hardware, I strive to innovate in biodiversity monitoring and ecological research methodologies.
 
 ---
 
