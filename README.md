@@ -14,7 +14,7 @@ My work focuses on integrating cutting-edge statistical methods with field data 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-langlais/)
 
-## 🚀 Last projects
+## 🚀 Current projects
 
 ![Status](https://img.shields.io/badge/status-Maintained-brightgreen) **[Bat Activity R Package](https://github.com/a-langlais/bat_activity)** : R package providing standardized workflows for bat acoustic activity analysis in biodiversity monitoring programs.
 
