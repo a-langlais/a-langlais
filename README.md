@@ -16,25 +16,13 @@ My work focuses on integrating cutting-edge statistical methods with field data 
 
 ## 🚀 Last projects
 
-![Status](https://img.shields.io/badge/status-Maintained-brightgreen)
-  **[bat_activity](https://github.com/a-langlais/bat_activity)**  
-  R package providing standardized workflows for bat acoustic activity analysis in biodiversity monitoring programs.
+![Status](https://img.shields.io/badge/status-Maintained-brightgreen) **[Bat Activity R Package](https://github.com/a-langlais/bat_activity)** : R package providing standardized workflows for bat acoustic activity analysis in biodiversity monitoring programs.
 
-![Status](https://img.shields.io/badge/status-Maintained-brightgreen)
-  **[TeensyRecorders_ProfilesEditor](https://github.com/a-langlais/TeensyRecorders_ProfilesEditor)**  
-  Python-based configuration editor for Teensy-powered autonomous field recorders.
+![Status](https://img.shields.io/badge/status-Maintained-brightgreen) **[TeensyRecorders Profiles Editor](https://github.com/a-langlais/TeensyRecorders_ProfilesEditor)** : Python-based configuration editor for Teensy-powered autonomous field recorders.
 
-![Status](https://img.shields.io/badge/status-Maintained-brightgreen)
-  **[dashboard-bat-CMR](https://github.com/a-langlais/dashboard-bat-CMR)**  
-  Python dashboard for exploring capture–mark–recapture data from large-scale bat monitoring schemes.
+![Status](https://img.shields.io/badge/status-Maintained-brightgreen) **[CCPNA Dashboard](https://github.com/a-langlais/dashboard-bat-CMR)** : Python dashboard for exploring capture–mark–recapture data from large-scale bat monitoring project in France.
 
-![Status](https://img.shields.io/badge/status-WIP-orange)
-  **[rss_summarizer](https://github.com/a-langlais/rss_summarizer)**  
-  Automated RSS-based monitoring pipeline for collecting and summarizing scientific and technical content.
-
-![Status](https://img.shields.io/badge/status-Maintained-brightgreen)
-  **[ChromaPalette](https://github.com/a-langlais/ChromaPalette)**  
-  TypeScript tool for building, visualizing, and exporting consistent color palettes.
+![Status](https://img.shields.io/badge/status-WIP-orange) **[rss_summarizer](https://github.com/a-langlais/rss_summarizer)** : Automated RSS-based monitoring pipeline for collecting and summarizing scientific and technical content.
 
 Feel free to explore my repositories to find more projects, experiments, and ongoing ideas!
 
