@@ -11,8 +11,10 @@ My journey started with a Master's in Statistics, Research, and Expertise from t
 My work focuses on integrating cutting-edge statistical methods with field data to inform evidence-based conservation practices.
 
 [![Mail](https://img.shields.io/badge/Mail-Email_Perso-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:langlais.alexandre03@gmail.com)  
-[![Mail Pro](https://img.shields.io/badge/Professional-Contact_Me-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:alanglais.analytics@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-langlais/)
+
+[![Mail Pro](https://img.shields.io/badge/Mail-Professional-blue?style=flat-square&logo=gmail&logoColor=white))](mailto:alanglais.analytics@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-langlais/)
 
 ## 🚀 Last projects
 
